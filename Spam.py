@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# Tidak ada author Untuk Sc ini kecuali ./Kitsune yg Telah Mendesign Dengan Sempurna
+# Tidak ada author Untuk Sc ini kecuali ./GaneshJadhao yg Telah Mendesign Dengan Sempurna
 # Update 20 january 2020 21:57
 # Recode!, dosa Tanggung Sendiri
 # Thanks For MyFriends, FourX, MhankBarBar, Maulana, Rexy
@@ -209,7 +209,7 @@ def multi():
 #-------------------------© Coded By Ganesh Jadhao-----------------------
 def logo():
 	os.system('clear')
-	auth=m+'  Author : '+k+'./kitsune | Modified By: github.com/imajraj'
+	auth=m+'  Author : '+k+'./Ganesh Jadhao | Modified By: github.com/ganeshjadhao'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
 %s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
